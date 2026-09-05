@@ -1,4 +1,4 @@
-# codealpha_tasks
+# codealpha_tasks_1
 # 🎵 AI Music Generator
 
 ## 📌 Overview
